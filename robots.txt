@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ryannz-dot.github.io/colorado-plumbing-guide/sitemap.xml
